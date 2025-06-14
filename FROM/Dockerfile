@@ -1,1 +1,1 @@
-FROM centos:version
+FROM centos
